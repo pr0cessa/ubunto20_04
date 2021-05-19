@@ -1,5 +1,5 @@
 # ubuntu 20_04
-Helpful links for getting stuff working on Ubuntu 20.04
+Miscellaneous links for getting stuff working on Ubuntu 20.04
 
 <DL>
       <DT><A HREF="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04" ADD_DATE="1620920277" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACNUlEQVQ4jX3Tv4teRRTG8c+Z9+7u+8YExBQWi4VgIa6VLhpd1MVi/4MFCxFBEVGMSFCxUC5KUgQkxYIgRmvhLWxFRJeAhRAElQVFGxGVVbJCor6/7r3HYq9xbXymOXMeZubMnO8EkEEkeDUfUDyFDdyMxL70meKiOi4dXRP+0Ut5wjHnhCeFoQ7/uodxmknv+cvLzse1Pp2hdkIaG9ky0akU0FpIoVL189bQwNRHrti2E1dLX/o5I1tmZipF61OtbXOnhHstPKKxa2BgamZoy03OHlbwem7ofCIMFAOtC/a8aByto9rOgTVvGnhep5UaPFjpPGtgSUiNj9XOEGkzK5s6sKsYR0OesWZd5X5pReOJCg8j+vEWkbZzYByN3evnd32udXteVNmQUjhVdKZaP5v5wdS3h+1BnUWd5foWa7KPvtPodEJarRT3mAup870DIo21xv5fIZGVOn79j1HnMa27hUoxwWV1NPZ6KsIdKkUnpZ8qr+RJK1bN/WbZvrnbLPlQZaTxo7l123lgHK0XcqR4ur9/4FKx5FHHfWnZaXV0ioUwUgkMrfjTOFrP5HE3etvAXTqd1jWtdyrpioU9pDrv1LkVn5tbkQ4U96lzVXpOsa4xN7Js4oI34uuwmZVd6TWn3eC8ia/wkD0Ta26RLlt2UotOGgoT7zvwuB3zYldHHNpU/beZ9yQ2Qulxorhq6qxfPGYnZkRWRNe/7gemvsHv9hxivBCW/KGz3+P+rjq+ONq0vwHGVepcT9t+ZgAAAABJRU5ErkJggg==">How To Install MySQL on Ubuntu 20.04 | DigitalOcean</A>
